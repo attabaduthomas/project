@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.head{
+    background-image: url(images/image1.jpg);
+    padding: 80px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 73vh;
+    background-attachment: fixed;
+}
+.para{
+    background-color: black;
+    color: white;
+    padding: 18px;
+    width: 17%;
+    text-align: center;
+    margin-top:18%;
+    margin-left: 37%;
+}
+.Section1{
+    text-align: center;
+    background-color: lightgray;
+    font-size:20px;
+}
+.image2{
+    background-image: url(images/image2\ \(1\).jpg);
+    padding: 15px;
+     height: 40vh;
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+.head1{
+    text-align: center;
+    color: white;
+    margin-top: 15%;
+}
+.section3{
+    background-color: black;
+    color: white;
+    padding: 40px;
+    text-align: center;
+    font-size:18px ;
+}
+.head2{
+padding-bottom: 78px;
+}
+
+.section4{
+    background-image: url(images/image3\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 55vh;
+    background-attachment: fixed;
+    
+
+
+}
+.head3{
+    text-align: center;
+    color: white;
+    padding-top: 20%;
+}
+.section5{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 25px;
+    font-size: 19px;
+}
+.head4{
+    margin-bottom: 80px;
+
+}
+.section6{
+    background-image: url(images/image1.jpg);
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:75vh;
+    background-attachment: fixed;
+    padding: 90px;
+    
+
+
+}
+
+.thomas{
+
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15%;
+    color: white;
+    background-color: aqua;    
+}
+
+
+
+
+@media screen and (width <= 768px){
+
+    body{
+        display: inline;
+        
+    }
+    .para{
+     display: none;
+     
+    
+    }
+    .section3{
+        font-size:30px;
+    }
+    .Section1{
+        font-size: 30px;
+    }
+
+    .section5{
+        font-size: 30px;
+    }
+
+
+}
+
+
+
+
+    
+
+
+
